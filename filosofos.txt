@@ -1,0 +1,96 @@
+Filosofo 0 esta pensando
+Filosofo 1 esta pensando
+Filosofo 2 esta pensando
+Filosofo 3 esta pensando
+Filosofo 4 esta pensando
+Filosofo 1 tiene hambre
+Filosofo 1 tomo el tenedor 1
+Filosofo 1 tomo el tenedor 2
+Filosofo 1 esta comiendo (comida 1 de 3)
+Filosofo 2 tiene hambre
+Filosofo 3 tiene hambre
+Filosofo 3 tomo el tenedor 3
+Filosofo 3 tomo el tenedor 4
+Filosofo 3 esta comiendo (comida 1 de 3)
+Filosofo 0 tiene hambre
+Filosofo 0 tomo el tenedor 0
+Filosofo 4 tiene hambre
+Filosofo 2 tomo el tenedor 2
+Filosofo 1 solto los tenedores 1 y 2
+Filosofo 1 esta pensando
+Filosofo 0 tomo el tenedor 1
+Filosofo 0 esta comiendo (comida 1 de 3)
+Filosofo 3 solto los tenedores 3 y 4
+Filosofo 3 esta pensando
+Filosofo 4 tomo el tenedor 4
+Filosofo 2 tomo el tenedor 3
+Filosofo 2 esta comiendo (comida 1 de 3)
+Filosofo 1 tiene hambre
+Filosofo 4 tomo el tenedor 0
+Filosofo 4 esta comiendo (comida 1 de 3)
+Filosofo 1 tomo el tenedor 1
+Filosofo 0 solto los tenedores 0 y 1
+Filosofo 0 esta pensando
+Filosofo 1 tomo el tenedor 2
+Filosofo 1 esta comiendo (comida 2 de 3)
+Filosofo 2 solto los tenedores 2 y 3
+Filosofo 2 esta pensando
+Filosofo 4 solto los tenedores 4 y 0
+Filosofo 4 esta pensando
+Filosofo 0 tiene hambre
+Filosofo 0 tomo el tenedor 0
+Filosofo 3 tiene hambre
+Filosofo 3 tomo el tenedor 3
+Filosofo 3 tomo el tenedor 4
+Filosofo 3 esta comiendo (comida 2 de 3)
+Filosofo 1 solto los tenedores 1 y 2
+Filosofo 1 esta pensando
+Filosofo 0 tomo el tenedor 1
+Filosofo 0 esta comiendo (comida 2 de 3)
+Filosofo 3 solto los tenedores 3 y 4
+Filosofo 3 esta pensando
+Filosofo 2 tiene hambre
+Filosofo 2 tomo el tenedor 2
+Filosofo 2 tomo el tenedor 3
+Filosofo 2 esta comiendo (comida 2 de 3)
+Filosofo 4 tiene hambre
+Filosofo 4 tomo el tenedor 4
+Filosofo 0 solto los tenedores 0 y 1
+Filosofo 0 esta pensando
+Filosofo 4 tomo el tenedor 0
+Filosofo 4 esta comiendo (comida 2 de 3)
+Filosofo 1 tiene hambre
+Filosofo 1 tomo el tenedor 1
+Filosofo 4 solto los tenedores 4 y 0
+Filosofo 4 esta pensando
+Filosofo 2 solto los tenedores 2 y 3
+Filosofo 2 esta pensando
+Filosofo 1 tomo el tenedor 2
+Filosofo 1 esta comiendo (comida 3 de 3)
+Filosofo 3 tiene hambre
+Filosofo 3 tomo el tenedor 3
+Filosofo 3 tomo el tenedor 4
+Filosofo 3 esta comiendo (comida 3 de 3)
+Filosofo 0 tiene hambre
+Filosofo 0 tomo el tenedor 0
+Filosofo 4 tiene hambre
+Filosofo 3 solto los tenedores 3 y 4
+Filosofo 3 termino de cenar
+Filosofo 4 tomo el tenedor 4
+Filosofo 1 solto los tenedores 1 y 2
+Filosofo 1 termino de cenar
+Filosofo 0 tomo el tenedor 1
+Filosofo 0 esta comiendo (comida 3 de 3)
+Filosofo 2 tiene hambre
+Filosofo 2 tomo el tenedor 2
+Filosofo 2 tomo el tenedor 3
+Filosofo 2 esta comiendo (comida 3 de 3)
+Filosofo 2 solto los tenedores 2 y 3
+Filosofo 2 termino de cenar
+Filosofo 0 solto los tenedores 0 y 1
+Filosofo 0 termino de cenar
+Filosofo 4 tomo el tenedor 0
+Filosofo 4 esta comiendo (comida 3 de 3)
+Filosofo 4 solto los tenedores 4 y 0
+Filosofo 4 termino de cenar
+Todos los filosofos terminaron de cenar
